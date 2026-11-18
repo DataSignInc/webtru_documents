@@ -1,10 +1,10 @@
-﻿service_id,name,name_ja,url
+service_id,name,name_ja,url
 2,SATORI,SATORI,https://satori.marketing/
 3,Google Fonts,Google Fonts,https://fonts.google.com/
 4,Google Tag Manager,Googleタグマネージャ,https://marketingplatform.google.com/about/tag-manager/
 5,Google Analytics,Google アナリティクス,https://analytics.google.com/analytics/web/
 6,AdRoll,AdRoll,https://www.adroll.com/
-7,VWO ENGAGE,VWO ENGAGE,https://vwo.com/engage/
+7,Wingify Engage,Wingify Engage,https://wingify.com/customer-engagement/
 8,Creative Survey,クリエイティブサーベイ,https://www.ninout.ai/creativesurvey/service/enterprise/
 9,OpenX,OpenX,https://www.openx.com/
 10,Google+,Google+,https://plus.google.com/
@@ -34,7 +34,7 @@
 36,TAPAD,TAPAD,https://www.tapad.com/
 37,Oracle Bluekai,Oracle Bluekai,https://www.oracle.com/cx/marketing/data-management-platform/
 38,Sovrn,Sovrn,https://www.sovrn.com/
-40,Cinarra,シナラ,https://cinarra.co.jp/
+40,Cinarra,シナラ,https://www.cinarra.co.jp/
 41,Meta Ads,Meta広告,https://www.facebook.com/business/ads
 43,Akamai,Akamai,https://www.akamai.com/ja
 44,Akamai EdgeSuite Service,Akamai EdgeSuiteサービス,""
@@ -48,8 +48,10 @@
 62,Adobe Analytics,Adobe Analytics,https://business.adobe.com/products/analytics/adobe-analytics.html
 64,Improve Digital ORIGIN,Improve Digital ORIGIN,https://ssp.improvedigital.com/login
 65,triplelift,triplelift,https://triplelift.com/
+66,4dsply.com,4dsply.com,https://4dsply.com/
 69,Activecore,アクティブコア,https://www.activecore.co.jp/
 70,A8.net,A8.net,https://www.a8.net/
+71,abc.com,abc.com,https://abc.com/
 77,AdStir,AdStir,https://ja.ad-stir.com/
 78,cci AdVantage Hybrid,cci AdVantage Hybrid,""
 79,Sphere,Sphere,https://www.p-engine.co.jp/
@@ -67,6 +69,7 @@
 104,LinkedIn Marketing Solutions,LinkedIn マーケティングソリューション,https://business.linkedin.com/advertise
 105,AJA DSP,AJA DSP,https://aja-kk.co.jp/#service
 109,ADPLAN,ADPLAN,""
+110,adzerk.net,adzerk.net,https://www.kevel.com/
 111,Adify,Adify,""
 112,Identity Data Management Platform,Identity Data Management Platform,https://www.transunion.com/insights
 117,akamaihd.net,akamaihd.net,https://www.akamai.com/ja
@@ -111,7 +114,7 @@
 227,Amazon Cloud Front,Amazon Cloud Front,https://aws.amazon.com/cloudfront/
 228,Cloudinary,Cloudinary,https://cloudinary.com/
 234,Hitwise,Hitwise,https://www.connexity.com/
-235,contentsfeed.com,contentsfeed.com,https://www.a1platform.co.kr/a1videoterms
+235,A1 Linkback,A1 Linkback,https://www.a1mediagroup.com/
 236,ContextWeb,ContextWeb,https://www.pulsepoint.com/
 237,HIKIAGERU,ヒキアゲール,""
 238,Cookpad Ads,クックパッド広告,https://ad.cookpad.jp/
@@ -147,7 +150,7 @@
 333,fastly,fastly,https://www.fastly.com/
 334,fbcdn.net,fbcdn.net,""
 335,FC2 Blog,FC2ブログ,https://blog.fc2.com/
-336,Zexy Baby,ゼクシィBaby,https://zexybaby.zexy.net/
+336,Zexy Baby,ゼクシィBaby,""
 337,felmat,felmat,https://www.felmat.net/
 339,Flipdesk,Flipdesk,https://materialdigital.jp/service/flipdesk/
 345,FONTPLUS,FONTPLUS,https://fontplus.jp/home
@@ -209,7 +212,7 @@
 537,MagMag,まぐまぐ,https://www.mag2.com/
 539,MarinOne,MarinOne,https://www.marinsoftware.com/
 545,MathJax,MathJax,https://www.mathjax.org/
-546,Infillion MediaMath,Infillion MediaMath,https://infillion.com/products/infillion-platform/
+546,Infillion MediaMath,Infillion MediaMath,https://infillion.com/products/dsp/
 548,Oracle Maximiser,Oracle Maximiser,""
 553,Media.net,Media.net,https://www.media.net/
 554,Dstillery,Dstillery,https://dstillery.com/
@@ -298,8 +301,8 @@
 795,SpotX,SpotX,https://www.magnite.com/
 796,Sprocket,スプロケット,https://www.sprocket.bz/
 797,Amazon Product Advertising API,Amazon Product Advertising API,""
-798,Hatena Blog Media,はてなブログMedia,https://www.hatena.ne.jp/cms/
-800,StackPile,StackPile,https://sitespeak.ai
+798,Hatena CMS,はてなCMS,https://www.hatena.ne.jp/cms/
+800,StackPile,StackPile,""
 803,STEELHOUSE,STEELHOUSE,https://mountain.com/
 805,FreeWheel,FreeWheel,https://www.freewheel.com/
 806,IR palette,IRパレット,https://www.irpalette.com/
@@ -339,7 +342,7 @@
 913,Vindico,Vindico,https://advertising.amazon.com/adtech-solutions/amazon-ad-server?ref_=a20m_us_sas_rdrct
 915,VisualDNA,VisualDNA,https://panels.nielsen.com/panels-and-surveys/locations/#visual-dna
 917,VWO,VWO,https://vwo.com/
-918,Vizury,Vizury,https://vizury.com/
+918,Vizury,Vizury,""
 923,VERVE,VERVE,https://verve.com/
 927,Walmart Connect,Walmart Connect,https://www.walmartconnect.com/
 931,WebAntenna,WebAntenna,https://www.bebit.co.jp/webantenna/
@@ -478,7 +481,7 @@
 1105,Logreco,ログレコ,https://www.logreco.jp/
 1106,AppDynamics,AppDynamics,https://www.splunk.com/en_us/appdynamics-joins-splunk.html
 1107,Demandbase,Demandbase,https://www.demandbase.com/
-1108,Certona,Certona,https://monetate.com/
+1108,Certona,Certona,""
 1109,Contents Recommend,Contents Recommend,https://www.submit.ne.jp/contentsrecommend
 1110,Adobe Experience Manager,Adobe Experience Manager,https://business.adobe.com/products/experience-manager/adobe-experience-manager.html
 1111,CARTSTAR,CARTSTAR,https://commerce-star.com/
@@ -516,7 +519,7 @@
 1146,AdMedia,AdMedia,https://admedia.com/
 1147,MadKudu,MadKudu,""
 1149,Telaria,Telaria,""
-1150,Fanplayr,Fanplayr,https://www.fanplayr.com/
+1150,Verada,Verada,https://verada.ai/
 1151,GENIEE MA,GENIEE MA,https://ma-jin.jp/
 1152,Jimdo,Jimdo,https://www.jimdo.com/de/
 1153,GRED Web tampering check Cloud,GRED Web改ざんチェック Cloud,https://www.securebrain.co.jp/products/gred/function.html
@@ -632,7 +635,7 @@
 1272,FC2 Analyzer,FC2 アクセス解析,https://analyzer.fc2.com/
 1273,AdPicker,AdPicker,""
 1274,PolymorphicAds,ポリモフィックアドス,""
-1275,NewsTV,NewsTV,https://news-tv.jp/
+1275,NewsTV,NewsTV,https://biz.news-tv.jp/
 1276,count.jsoon,count.jsoon,""
 1277,widgetoon.js,widgetoon.js,""
 1278,Digilant,Digilant,https://digilant.com/
@@ -681,7 +684,7 @@
 1325,Salesforce marketing cloud Email Studio,Salesforce marketing cloud Email Studio,https://www.salesforce.com/marketing/engagement/?bc=OSC
 1326,WebSysAccessCounter,ウェブシスアクセスカウンター,""
 1327,GETTER,GETTER,""
-1328,E-PAGERANK,E-ページランク,http://e-pagerank.net/
+1328,E-PAGERANK,E-ページランク,""
 1329,EMIDAS,エミダス,https://service.nc-net.com/pr/service/
 1330,goo Search Solution,goo Search Solution,https://searchsolution.goo.ne.jp/
 1331,Live Agent,Live Agent,https://www.liveagent.com/
@@ -878,7 +881,7 @@
 1534,Hike,Hike,https://mtburn.jp/
 1535,SaleCycle,SaleCycle,https://www.salecycle.com/
 1536,Sprout! SSP,Sprout! SSP,""
-1537,Instinctive,Instinctive,https://instinctive.io/
+1537,Instinctive,Instinctive,""
 1538,AMP,AMP,https://amp.dev/
 1539,Blogger,Blogger,https://www.blogger.com/about/?bpli=1
 1540,3dcart,3dcart,https://www.shift4shop.com/
@@ -1025,7 +1028,7 @@
 1688,sociomantic,sociomantic,""
 1689,Deltatre,Deltatre,https://www.deltatre.com/
 1690,Iframely,Iframely,https://iframely.com/
-1691,Alexa,Alexa,https://www.amazon.com/dp/B0DCCNHWV5?ref=aucc_web_red_xaa_evgn_tx_0001
+1691,Alexa,Alexa,""
 1692,ES II BUKKEN,ESいい物件,https://www.es-service.net/
 1693,AMS,AMS,https://amsstudio.jp/
 1694,LBC API,LBC API,https://usonar.co.jp/service/usonar/#serviceLbc
@@ -1066,14 +1069,14 @@
 1731,Yahoo Dot Tags,Yahoo Dot Tags,""
 1732,kantanchat,かんたんチャット,https://clad.inc/product/kantanchat/
 1733,GORILLA EFO,GORILLA EFO,https://gorilla-efo.com/
-1735,Cheetah Digital by ZETA,Cheetah Digital by ZETA,https://zetaglobal.com/cheetah-digital/
+1735,Cheetah Digital by ZETA,Cheetah Digital by ZETA,https://www.zetaglobal.com/cheetah-digital/
 1736,KUZEN,KUZEN,https://kuzen.io/
 1737,Material Design Icons,Material Design Icons,https://pictogrammers.com/library/mdi/?welcome
 1738,MATTRZ CX,MATTRZ CX,https://mattrz.co.jp/business/saas/mattrz_cx
 1739,ADroute,アドルート,https://adroute.froute.jp/adroute/
 1740,AdVision,AdVision,https://advision.yicha.jp/ad_vision/jsp/login.jsp
 1741,SOVE,SOVE,https://l.sove-x.com/contents/sove/
-1742,Yahoo! ID Connect,Yahoo! ID連携,https://developer.yahoo.co.jp/yconnect/
+1742,Yahoo! ID Connect,Yahoo! ID連携,https://id.yahoo.co.jp/products/yconnect.html
 1743,Ad Counter,Ad Counter,""
 1744,Sentry,Sentry,https://sentry.io/welcome/
 1745,TSUNAGARU,TSUNAGARU,http://linebc.jp/
@@ -1090,7 +1093,7 @@
 1757,headwayapp.co,headwayapp.co,https://headwayapp.co/
 1758,Rentracks,Rentracks,https://www.rentracks.co.jp/
 1759,ByteDance,ByteDance,https://www.bytedance.com/
-1760,Evory,Evory,http://evory.co.jp/
+1760,Evory,Evory,""
 1761,Ninja DSP,忍者DSP,https://adtargeting.shinobi.jp/
 1762,ADSAFETY,ADSAFETY,https://adsafety.net/
 1763,Advantage Search,Advantage Search,https://search.appirits.com/
@@ -1127,10 +1130,10 @@
 1795,convert,convert,https://www.convert.com/
 1796,dPublic,dPublic,https://www.d2-apps.net/privacy_policy.html
 1797,shutto-translation,shutto翻訳,https://www.submit.ne.jp/shutto-translation
-1798,Zync,Zync,https://zetaglobal.com/
+1798,Zync,Zync,https://www.zetaglobal.com/
 1799,Shuttlerock,Shuttlerock,https://www.shuttlerock.com/
 1800,Moshimo Afiliate,もしもアフィリエイト,https://af.moshimo.com/
-1801,Link-A,Link-A,https://legrp.co.jp/
+1801,Link-A,Link-A,""
 1803,Probance,Probance,https://www.brainpad.co.jp/probance/
 1804,Booking.com Affiate,Booking.com Affiate,https://www.booking.com/affiliate-program/v2/index.ja.html
 1805,fuseitaisaku,不正対策.com,https://www.fuseitaisaku.com/
@@ -1441,7 +1444,7 @@
 2127,Piano ESP,Piano ESP,https://www.piano.io/product/amplifier/newsletters-notifications
 2128,consumable,consumable,https://consumable.com/
 2129,colossusssp,colossusssp,https://colossusmediassp.com/
-2130,INSIDE,INSIDE,https://www.powerfront.com/
+2130,INSIDE,INSIDE,https://powerfront.com/
 2131,1plusX,1plusX,""
 2132,Synacor,Synacor,https://synacor.com/
 2133,StackAdapt,StackAdapt,https://www.stackadapt.com/
@@ -1974,3 +1977,6 @@
 2699,Gemini Enterprise Agent Platform,Gemini Enterprise Agent Platform,https://cloud.google.com/products/gemini-enterprise-agent-platform
 2700,Google Cookie Matching,Google Cookie マッチング,https://developers.google.com/ads-data-hub/guides/cookie-matching?hl=ja
 2702,Klarna,Klarna,https://www.klarna.com/jp/
+2703,SHANON MARKETING PLATFORM（Tracking）,SHANON MARKETING PLATFORM（トラッキング）,https://www.shanon.co.jp/
+2706,Stanby Conversion Tracking,スタンバイ コンバージョン計測,https://stanby.co.jp
+2707,"Account Engagement（Sumitomo Metal Mining, X-MINING）",Account Engagement（住友金属鉱山 X-MINING）,https://www.salesforce.com/marketing/b2b-automation/?bc=OSC
